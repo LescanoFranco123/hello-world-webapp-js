@@ -1,0 +1,3 @@
+function obtenerSaludo() {
+    return "Hola";
+}
